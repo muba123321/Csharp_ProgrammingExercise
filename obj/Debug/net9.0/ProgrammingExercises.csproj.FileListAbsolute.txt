@@ -1,0 +1,14 @@
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\bin\Debug\net9.0\ProgrammingExercises.exe
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\bin\Debug\net9.0\ProgrammingExercises.deps.json
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\bin\Debug\net9.0\ProgrammingExercises.runtimeconfig.json
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\bin\Debug\net9.0\ProgrammingExercises.dll
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\bin\Debug\net9.0\ProgrammingExercises.pdb
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.AssemblyInfoInputs.cache
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.AssemblyInfo.cs
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.csproj.CoreCompileInputs.cache
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.dll
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\refint\ProgrammingExercises.dll
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.pdb
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ProgrammingExercises.genruntimeconfig.cache
+C:\Users\laary\source\repos\ProgrammingExercises\ProgrammingExercises\obj\Debug\net9.0\ref\ProgrammingExercises.dll
