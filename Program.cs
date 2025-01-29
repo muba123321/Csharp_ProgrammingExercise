@@ -1,5 +1,4 @@
-﻿using System;
-using ProgrammingExercises.Exercises;
+﻿using ProgrammingExercises.Exercises;
 
 Console.WriteLine("Running Exercises\n");
 Console.WriteLine("\n Exercises 1........");
