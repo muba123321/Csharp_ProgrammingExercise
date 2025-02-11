@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\laary\\.nuget\\packages\\": {},
+    "C:\\Users\\Adam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laary\\source\\repos\\ProgrammingExercises\\ProgrammingExercises\\ProgrammingExercises.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\gitstuff\\folder1\\Csharp_ProgrammingExercise\\ProgrammingExercises.csproj",
       "projectName": "ProgrammingExercises",
-      "projectPath": "C:\\Users\\laary\\source\\repos\\ProgrammingExercises\\ProgrammingExercises\\ProgrammingExercises.csproj",
-      "packagesPath": "C:\\Users\\laary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laary\\source\\repos\\ProgrammingExercises\\ProgrammingExercises\\obj\\",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\gitstuff\\folder1\\Csharp_ProgrammingExercise\\ProgrammingExercises.csproj",
+      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\gitstuff\\folder1\\Csharp_ProgrammingExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\laary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
